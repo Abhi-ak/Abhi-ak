@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Kaimal</h1>
-<h3 align="center">Experienced Senior Software Engineer and results-driven professional with over 5 years of successful project execution experience, consistently delivering exceptional results within strict timelines and adhering to best practices.</h3>
+<h3 align="center">Experienced Senior Software Engineer and results-driven professional with over 6 years of successful project execution experience, consistently delivering exceptional results within strict timelines and adhering to best practices.</h3>
 
 - 🔭 I’m currently working on **Google Analytics**
 
